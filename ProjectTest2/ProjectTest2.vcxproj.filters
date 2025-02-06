@@ -18,5 +18,11 @@
     <ClCompile Include="ProjectTest2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Pasha.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Maks.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
