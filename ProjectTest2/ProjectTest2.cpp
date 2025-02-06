@@ -1,5 +1,5 @@
 #include <iostream>
 using namespace std;
 int main() {
-	cout << "KOKOJAMBO";
+	cout << "KOKOJAMB99999999999999";
 }
